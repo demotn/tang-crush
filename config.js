@@ -14,6 +14,6 @@ const CONFIG = {
     reply: 'I adore u!',
     mess: 'Anh biết mà :v',
     messDesc: 'Cám ơn em vì đã xuất hiện!',
-    btnAccept: 'hehe',
+    btnAccept: 'Go',
     messLink: 'https://www.youtube.com/watch?v=8zRy02Wl1JA' //link mess của các bạn. VD: https://m.me/nam.nodemy
 }
